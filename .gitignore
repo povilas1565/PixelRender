@@ -1,0 +1,5 @@
+build
+dist
+pixelterm.egg-info
+__pycache__
+/.idea
