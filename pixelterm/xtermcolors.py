@@ -1,8 +1,6 @@
 
 xterm_colors = []
 
-# This is ripped out of pygments
-# I leave out the 16 standard colors since people tend to re-define them to their liking.
 
 # colors 16..232: the 6x6x6 color cube
 _valuerange = (0x00, 0x5f, 0x87, 0xaf, 0xd7, 0xff)
