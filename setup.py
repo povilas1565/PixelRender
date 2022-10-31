@@ -10,7 +10,6 @@ def read(filename):
 	return open(os.path.join(os.path.dirname(__file__), filename)).read()
 
 
-
 if sys.version_info < (3,0):
 	print('Oops, only python >= 3.0 supported!')
 	sys.exit()

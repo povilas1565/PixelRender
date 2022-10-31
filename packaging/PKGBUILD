@@ -6,11 +6,11 @@ pkgrel=1
 pkgdesc="Display images on a terminal. Even works with animated GIFs"
 arch=('any')
 license=('GPL')
-url="https://github.com/jaseg/pixelterm"
+url="https://github.com/povilas1565/PixelRender
 depends=('python' 'python-pillow')
 makedepends=('git')
 provides=('pixelterm')
-source=('git+https://github.com/jaseg/pixelterm#branch=master')
+source=('git+https://github.com/povilas1565/PixelRender#branch=master')
 md5sums=('SKIP')
 
 _gitname="pixelterm"
